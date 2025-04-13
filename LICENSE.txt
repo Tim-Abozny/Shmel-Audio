@@ -1,0 +1,19 @@
+ShmelAudio — Copyright © 2025 Tim-Abozny
+
+This software is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
+
+You are free to:
+- Use — for personal and educational purposes
+- Share — distribute the installer
+
+Under the following terms:
+- Attribution — You must credit the original author (Tim-Abozny) and may not claim this work as your own.
+- NonCommercial — You may not use the software for commercial purposes.
+
+You are not allowed to:
+- Sell or redistribute the software for profit
+- Modify the software and publish it as your own
+- Use the brand name or visuals without permission
+
+For full license text, visit: https://creativecommons.org/licenses/by-nc/4.0/  
+Author: https://github.com/Tim-Abozny
