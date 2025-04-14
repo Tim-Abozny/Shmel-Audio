@@ -19,6 +19,9 @@ Includes per-app volume control, decibel limits, dark UI, tray minimization, and
 
 ---
 
+![image](https://github.com/user-attachments/assets/fd41c383-85fd-4b7a-8c8e-959e778b494a)
+
+
 ## ✨ Features
 
 - 🔊 Per-application volume control  
