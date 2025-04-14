@@ -8,7 +8,7 @@ Includes per-app volume control, decibel limits, dark UI, tray minimization, and
 ## 📥 How to Install
 
 1. Download the installer:  
-   👉 **[ShmelAudio_Installer.exe](https://github.com/Tim-Abozny/ShmelAudio/releases)**
+   👉 **[ShmelAudio_Installer.exe](https://github.com/Tim-Abozny/Shmel-Audio/releases/download/ShmelAudio/ShmelAudio_Installer.exe)**
 
 2. ⚠ **Make sure you have .NET Desktop Runtime installed**:  
    - Download: https://dotnet.microsoft.com/en-us/download/dotnet
